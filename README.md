@@ -1,0 +1,2 @@
+# Project_11_Google_Stock_Price_Prediction_with_RNN_and_LSTM
+Google Stock(Yahoo finance)
